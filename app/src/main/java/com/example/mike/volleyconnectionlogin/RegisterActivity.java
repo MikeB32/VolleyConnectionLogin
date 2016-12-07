@@ -26,7 +26,7 @@ import java.util.Map;
  */
 public class RegisterActivity extends AppCompatActivity {
     private static final String TAG = RegisterActivity.class.getSimpleName();
-    private static final String URL_REGISTER = "http://192.168.3.105/cult_tickets/request/register.php";
+    private static final String URL_REGISTER = "http://555.555.555.555/cult_tickets/request/register.php";
 
     private Button btnRegister, btnLinkToLogin;
     private TextInputLayout inputUserName,inputFirstName,inputLastName, inputEmail, inputPassword;
