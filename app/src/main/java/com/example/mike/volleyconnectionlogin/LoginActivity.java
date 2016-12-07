@@ -23,7 +23,7 @@ import java.util.Map;
 
 public class LoginActivity extends AppCompatActivity {
     private static final String TAG = LoginActivity.class.getSimpleName();
-    private static final String URL_LOGIN = "http://192.168.3.105/cult_tickets/request/login.php";
+    private static final String URL_LOGIN = "http://555.555.555.555/cult_tickets/request/login.php";
 
     private Button btnLogin, btnLinkToRegister;
     private TextInputLayout inputUsername, inputPassword;
